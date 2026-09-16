@@ -1,0 +1,50 @@
+#one{
+    height: 400px;
+    width: 450px;
+    border: 1px solid;
+    margin: 10px auto;
+    box-shadow: 0px 0px 20px hotpink;
+    border-radius: 10px;
+  
+}
+.outer{
+      display: flex;
+align-items: flex-start;
+}
+.heading{
+    text-align: center;
+    color: hotpink;
+}
+#text-sec{
+    height: 80px;
+    width: 65%;
+    border-radius: 10px;
+    margin: 20px 10px;
+    padding: 10px;
+}
+.btn1{
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 50px;  /* 50px ko 20px karo */
+    margin-left: 10px;
+    border: none;
+    background-color: hotpink;
+    color: white;
+    font-weight: 700;
+}
+.btn2{
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-left: 160px;
+    border: none;
+    background-color: hotpink;
+    color: white;
+    font-weight: 700;
+}
+#Voice-text{
+  height: 170px;
+    width: 90%;
+    border-radius: 10px;
+    margin: 20px 10px;
+    padding: 10px;   
+}

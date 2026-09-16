@@ -35,7 +35,7 @@ Users can:
 * **HTML5** – Application structure and semantic markup
 * **CSS3** – Styling, layout, responsiveness, and UI design
 * **JavaScript (ES6+)** – Application logic and Web Speech API integration
-* **Web Speech API** – Text-to-Speech and Speech Recognition functionality
+
 
 ## 📂 Project Structure
 
